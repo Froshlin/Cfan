@@ -1,6 +1,4 @@
-/* eslint-disable react/no-unescaped-entities */
-/* eslint-disable no-unused-vars */
-import { TiArrowRight } from "react-icons/ti";
+ import { TiArrowRight } from "react-icons/ti";
 
 function Good() {
   return (

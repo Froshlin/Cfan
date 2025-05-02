@@ -1,4 +1,4 @@
-/* eslint-disable no-unused-vars */
+ 
 import Hero from "./components/Hero"
 import Good from "./components/Good"
 import About from "./components/About"

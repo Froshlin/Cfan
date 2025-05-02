@@ -1,6 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
-/* eslint-disable no-unused-vars */
-
 // Import Swiper React components
 import { Swiper, SwiperSlide } from 'swiper/react';
 

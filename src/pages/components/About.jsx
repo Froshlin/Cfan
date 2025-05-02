@@ -1,4 +1,4 @@
-/* eslint-disable no-unused-vars */
+ 
 import { TiArrowRight } from "react-icons/ti";
 
 

@@ -1,4 +1,3 @@
-/* eslint-disable react/no-unescaped-entities */
 import Navbar from "../../components/Navbar"
 
 

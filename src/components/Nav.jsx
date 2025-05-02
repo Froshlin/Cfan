@@ -1,4 +1,4 @@
-/* eslint-disable no-unused-vars */
+ 
 'use client'
 import { useEffect, useState } from 'react'
 import { AiOutlineMenu, AiOutlineClose, AiFillInstagram, AiOutlineTwitter } from 'react-icons/ai'
