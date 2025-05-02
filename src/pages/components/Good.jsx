@@ -1,4 +1,3 @@
- import { TiArrowRight } from "react-icons/ti";
 
 function Good() {
   return (
