@@ -117,7 +117,7 @@ const Footer = () => {
               </a>
               <PaymentModal isOpen={isModalOpen} setIsOpen={setIsModalOpen} />
               <a
-                href=""
+                href="https://wa.me/+12024463004"
                 className="text-sm sm:text-base hover:underline text-orange-600"
               >
                 Prayer Requests
@@ -133,12 +133,6 @@ const Footer = () => {
                 className="text-sm sm:text-base hover:underline text-orange-600"
               >
                 Donate
-              </a>
-              <a
-                href=""
-                className="text-sm sm:text-base hover:underline text-orange-600"
-              >
-                Calendar
               </a>
             </div>
           </div>

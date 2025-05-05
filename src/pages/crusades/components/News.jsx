@@ -23,7 +23,7 @@ function News() {
               <div className="md:col-span-8 col-span-12 self-center lora">
                 <p className="flex flex-col space-x-3">
                   <span className="text-orange-500 md:py-2 libre font-bold md:text-[2.5rem] text-xl">
-                    Rewanda Crusades
+                    Rwanda Crusades
                   </span>
                   <span className='font-semibold md:text-2xl text-lg'>by Bishop Godbless Abu</span>
                 </p>
@@ -31,7 +31,7 @@ function News() {
             </div>
 
             <p className="py-3 md:text-lg text-base">
-              As I reflect on what has just happened here in Egypt, my spirit is soaring, and my heart is overflowing with gratitude. Tonight marked the end – not just of our campaign in Cairo – but of an extraordinary journey: 50 campaigns in a single year.
+              What a powerful moment in Rwanda, God is still in the business of doing great things for His people. Amazing signs and wonders were the order of the day. God miraculously used His Servant, Bishop  Godbless Abu to perform wonders for His people.
             </p>
 
             <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
@@ -47,23 +47,17 @@ function News() {
               </div>
 
               <div className="md:col-span-8 col-span-12 self-center lora">
-                <p className="flex items-center space-x-3">
-                  <span className="md:text-xl text-sm">11.26.2024</span>
-                  <span className='font-semibold md:text-2xl text-lg'>by Daniel Kolenda</span>
-                </p>
-
-                <p className="text-orange-700 md:py-2 libre font-bold md:text-[2.5rem] text-xl">
-                  A Prophetic Moment
-                </p>
-
-                <p className="md:text-2xl text-lg">
-                  Ghana Miracle Crusades
+                <p className="flex flex-col space-x-3">
+                  <span className="text-orange-500 md:py-2 libre font-bold md:text-[2.5rem] text-xl">
+                    Ghana Crusades
+                  </span>
+                  <span className='font-semibold md:text-2xl text-lg'>by Bishop Godbless Abu</span>
                 </p>
               </div>
             </div>
 
             <p className="py-3 md:text-lg text-base">
-              Tonight marked the first night of our final Gospel Campaign of the year – the last of fifty. We began in Cape Town, and now, after months of relentless effort and miracles that could fill a lifetime, we’re in Cairo. For those who grasp the weight of this moment, it’s nothing less than prophetic.
+              Tonight, Ghana experienced the great move of God's glory from the powerful crusade by Bishop Godbless Abu.  What a wonderful encounter. You will see more in this video.
             </p>
 
             <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg md:px-5 px-3 md:py-3 py-2 text-sm border border-orange-500 rounded font-medium hover:text-orange-500">
@@ -79,23 +73,17 @@ function News() {
               </div>
 
               <div className="md:col-span-8 col-span-12 self-center lora">
-                <p className="flex items-center space-x-3">
-                  <span className="md:text-xl text-sm">11.26.2024</span>
-                  <span className='font-semibold md:text-2xl text-lg'>by Daniel Kolenda</span>
-                </p>
-
-                <p className="text-orange-700 md:py-2 libre font-bold md:text-[2.5rem] text-xl">
-                  Fruit That Remains
-                </p>
-
-                <p className="md:text-2xl text-lg">
-                  Vietnam Fire Conference
+                <p className="flex flex-col space-x-3">
+                  <span className="text-orange-500 md:py-2 libre font-bold md:text-[2.5rem] text-xl">
+                    Ethopia Crusades
+                  </span>
+                  <span className='font-semibold md:text-2xl text-lg'>by Bishop Godbless Abu</span>
                 </p>
               </div>
             </div>
 
             <p className="py-3 md:text-lg text-base">
-              Tonight was unforgettable in so many ways. During the testimony time, a woman stepped forward, and I immediately recognized her face. Then she spoke: “I am the one who was healed 14 years ago…” Suddenly, the memory came flooding back, and believe it or not, I even remembered her name!
+              Tonight Ethiopia experienced the manifestation of God's presence through His anointed servant Bishop Godbless Abu. What a mighty God we serve
             </p>
 
             <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
@@ -107,27 +95,46 @@ function News() {
           <div className="py-16">
             <div className="grid grid-cols-12 gap-4">
               <div className="md:col-span-4 col-span-12">
-                <img src="test2.jpg" alt="" className='object-cover w-64 h-64 object-top' />
+                <img src="vietnam.jpg" alt="" className='object-cover w-64 h-64 object-top' />
               </div>
 
               <div className="md:col-span-8 col-span-12 self-center lora">
-                <p className="flex items-center space-x-3">
-                  <span className="md:text-xl text-sm">11.26.2024</span>
-                  <span className='font-semibold md:text-2xl text-lg'>by Daniel Kolenda</span>
-                </p>
-
-                <p className="text-orange-700 md:py-2 libre font-bold md:text-[2.5rem] text-xl">
-                  Healing for Kindness
-                </p>
-
-                <p className="md:text-2xl text-lg">
-                  Kenya Miracle Crusade
+                <p className="flex flex-col space-x-3">
+                  <span className="text-orange-500 md:py-2 libre font-bold md:text-[2.5rem] text-xl">
+                    Vietnam Crusades
+                  </span>
+                  <span className='font-semibold md:text-2xl text-lg'>by Bishop Godbless Abu</span>
                 </p>
               </div>
             </div>
 
             <p className="py-3 md:text-lg text-base">
-              Tonight, I turned to see a young girl, tears streaming down her cheeks and dripping to the ground. She was so overcome with emotion I couldn’t tell if her tears were from joy or sorrow. Gently, I asked her why she was crying, and she explained that for the past four years, she hadn’t been able to walk and had endured constant pain in both legs. But tonight, Jesus healed her! She could walk without assistance – all her pain was gone. Her mother, standing beside her, confirmed it was all true. The girl, whose name was Kindness, began to jump and stomp her feet, sobbing and praising the name of Jesus. It was a moment I will never forget.
+              Vietnam fire conference was explosive as of God's glory was revealed, many were baptized with the holy ghost and fire. It was a glorious moment
+            </p>
+
+            <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
+              Read More
+            </a>
+          </div>
+
+          <div className="py-16">
+            <div className="grid grid-cols-12 gap-4">
+              <div className="md:col-span-4 col-span-12">
+                <img src="test2.jpg" alt="" className='object-cover w-64 h-64 object-top' />
+              </div>
+
+              <div className="md:col-span-8 col-span-12 self-center lora">
+                <p className="flex flex-col space-x-3">
+                  <span className="text-orange-500 md:py-2 libre font-bold md:text-[2.5rem] text-xl">
+                    Kabba Nigeria Crusades
+                  </span>
+                  <span className='font-semibold md:text-2xl text-lg'>by Bishop Godbless Abu</span>
+                </p>
+              </div>
+            </div>
+
+            <p className="py-3 md:text-lg text-base">
+              Kabba, Nigeria was electrified with God's power, there was freedom from sins, deliverance from satanic oppression and Addictions. Healing for the sick and Open doors for those waiting on God for miracles. Hallelujah
             </p>
 
             <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">

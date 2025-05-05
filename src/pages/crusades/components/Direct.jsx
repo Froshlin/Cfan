@@ -24,7 +24,7 @@ function Direct() {
             Monthly Partner
           </a>
           <PaymentModal isOpen={isModalOpen} setIsOpen={setIsModalOpen} />
-          <a href="" className="text-xl hover:underline text-orange-600">
+          <a href="https://wa.me/+12024463004" className="text-xl hover:underline text-orange-600">
             Prayer Requests
           </a>
           <a href="" className="text-xl hover:underline text-orange-600">
@@ -32,9 +32,6 @@ function Direct() {
           </a>
           <a href="" className="text-xl hover:underline text-orange-600">
             Donate
-          </a>
-          <a href="" className="text-xl hover:underline text-orange-600">
-            Calendar
           </a>
         </div>
       </div>
