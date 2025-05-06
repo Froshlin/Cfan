@@ -34,7 +34,7 @@ function News() {
               What a powerful moment in Rwanda, God is still in the business of doing great things for His people. Amazing signs and wonders were the order of the day. God miraculously used His Servant, Bishop  Godbless Abu to perform wonders for His people.
             </p>
 
-            <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
+            <a href="https://www.youtube.com/@godofallnations_7997" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
               Read More
             </a>
           </div>
@@ -60,7 +60,7 @@ function News() {
               Tonight, Ghana experienced the great move of God's glory from the powerful crusade by Bishop Godbless Abu.  What a wonderful encounter. You will see more in this video.
             </p>
 
-            <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg md:px-5 px-3 md:py-3 py-2 text-sm border border-orange-500 rounded font-medium hover:text-orange-500">
+            <a href="https://www.youtube.com/@godofallnations_7997" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg md:px-5 px-3 md:py-3 py-2 text-sm border border-orange-500 rounded font-medium hover:text-orange-500">
               Read More
             </a>
           </div>
@@ -86,7 +86,7 @@ function News() {
               Tonight Ethiopia experienced the manifestation of God's presence through His anointed servant Bishop Godbless Abu. What a mighty God we serve
             </p>
 
-            <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
+            <a href="https://www.youtube.com/@godofallnations_7997" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
               Read More
             </a>
           </div>
@@ -112,7 +112,7 @@ function News() {
               Vietnam fire conference was explosive as of God's glory was revealed, many were baptized with the holy ghost and fire. It was a glorious moment
             </p>
 
-            <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
+            <a href="https://www.youtube.com/@godofallnations_7997" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
               Read More
             </a>
           </div>
@@ -137,7 +137,7 @@ function News() {
               Kabba, Nigeria was electrified with God's power, there was freedom from sins, deliverance from satanic oppression and Addictions. Healing for the sick and Open doors for those waiting on God for miracles. Hallelujah
             </p>
 
-            <a href="#" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
+            <a href="https://www.youtube.com/@godofallnations_7997" className="group mt-2 inline-flex items-center bg-orange-500 duration-200 transition-all hover:bg-transparent text-white md:text-lg text-sm md:px-5 px-3 md:py-3 py-2 border border-orange-500 rounded font-medium hover:text-orange-500">
               Read More
             </a>
           </div>
